@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-<a href="https://t.me/Mayank"><img src="https://telegra.ph/file/790358d3cb45e5ac9af56.jpg" width="400"></a>
+<a href="https://t.me/Mayank"><img src="https://graph.org/file/04b4c116833b1e1f8f3ed.jpg" width="400"></a>
 </p>
 
  ** Avaiilable on Telegram as [ɪɴsᴀɴᴇ ✘ ʀᴏʙᴏᴛ](https://t.me/Insane_Help) **
