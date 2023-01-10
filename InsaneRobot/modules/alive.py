@@ -11,7 +11,7 @@ from InsaneRobot import pbot, BOT_NAME, BOT_USERNAME, OWNER_ID, SUPPORT_CHAT, ST
 async def awake(_, message: Message):
 
     TEXT = f"**ʜᴇʏ {message.from_user.mention},\n\nɪ ᴀᴍ {BOT_NAME}**\n━━━━━━━━━━━━━━━━━━━\n\n"
-    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](tg://user?id={OWNER_ID})\n\n"
+    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [★彡[ɪɴꜱᴀɴᴇ]彡★](tg://user?id={OWNER_ID})\n\n"
     TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n\n"
     TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
     TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
