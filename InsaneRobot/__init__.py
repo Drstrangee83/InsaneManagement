@@ -7,6 +7,7 @@ import telegram.ext as tg
 from aiohttp import ClientSession
 from pyrogram import Client, errors
 from telethon import TelegramClient
+from Python_ARQ import ARQ
 
 StartTime = time.time()
 
@@ -49,6 +50,8 @@ if ENV:
     TOKEN = os.environ.get("TOKEN", None)
     TIME_API_KEY = os.environ.get("TIME_API_KEY", None)
     WORKERS = int(os.environ.get("WORKERS", 8))
+    ARQ_API_URL = os.environ.get("ARQ_API_URL", "https://arq.hamker.in")
+    ARQ_API_KEY = os.environ.get("ARQ_API_KEY", None)
 
     try:
         OWNER_ID = int(os.environ.get("OWNER_ID", None))
@@ -103,6 +106,8 @@ else:
     TOKEN = Config.TOKEN
     TIME_API_KEY = Config.TIME_API_KEY
     WORKERS = Config.WORKERS
+    ARQ_API_KEY = Config.ARQ_API_KEY
+    ARQ_API_URL = Config.ARQ_API_URL
 
     try:
         OWNER_ID = int(Config.OWNER_ID)
@@ -147,6 +152,7 @@ telethn = TelegramClient("Insane", API_ID, API_HASH)
 pbot = Client("InsaneRobot", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 dispatcher = updater.dispatcher
 aiohttpsession = ClientSession()
+arq = ARQ(ARQ_API_URL, ARQ_API_KEY, aiohttpsession)
 
 print("[INFO]: Getting Bot Info...")
 BOT_ID = dispatcher.bot.id
