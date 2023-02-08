@@ -23,7 +23,12 @@ class Config(object):
     TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
 
     OWNER_ID =   # User id of your telegram account (Must be integer)
-
+   
+    QUOTE_API_URI = ""
+    
+    ARQ_API_KEY = "MIBCUI-IRZTOS-REOWUP-VYCAGL-ARQ" #get it form @ARQRobot
+    
+    ARQ_API_URL = "https://arq.hamker.in" # dont change
   # Optional fields
     BL_CHATS = []  # List of groups that you want blacklisted.
     DRAGONS = []  # User id of sudo users
