@@ -24,9 +24,9 @@
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheMassomX)  ➻  [ꜰᴀʟʟᴇɴ ʙᴏᴛ](https://github.com/TheTeamInsane/InsaneManagement) </b>
-- <b>[Mayank](https://github.com/TheTeamInsane)  ➻  [ᴀʟᴇxᴀ ʙᴏᴛ](https://github.com/TheTeamInsane/InsaneManagement) </b>
-- <b>[ᴀsᴀᴅ ᴀʟɪ](https://github.com/TheTeamAlexa)  ➻  [ɪɴsᴀɴᴇ ʙᴏᴛ](https://github.com/TheTeamAlexa) </b>
+- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/anonymousx1025)  ➻  [ꜰᴀʟʟᴇɴ ʙᴏᴛ](https://github.com/anonymousx1025) </b>
+- <b>[Mayank](https://github.com/TheTeamInsane)  ➻  [ɪɴsᴀɴᴇ ʙᴏᴛ](https://github.com/TheTeamInsane/InsaneManagement) </b>
+- <b>[ᴀsᴀᴅ ᴀʟɪ](https://github.com/TheTeamAlexa)  ➻  [ᴀʟᴇxᴀ ʙᴏᴛ](https://github.com/TheTeamAlexa) </b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/TheTeamInsane/InsaneManagement/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ɪɴsᴀɴᴇ ✘ ʀᴏʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
