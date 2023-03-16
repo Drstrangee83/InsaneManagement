@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-   ❤️ Insane Management Bot ❤️
+   ❤️ Siri Management Bot ❤️
 </h2>
 
 <p align="center">
-<a href="https://t.me/Mayank"><img src="https://graph.org/file/04b4c116833b1e1f8f3ed.jpg" width="400"></a>
+<a href="https://t.me/Ai_Rav3n"><img src="https://graph.org/file/04b4c116833b1e1f8f3ed.jpg" width="400"></a>
 </p>
 
- ** Avaiilable on Telegram as [ɪɴsᴀɴᴇ ✘ ʀᴏʙᴏᴛ](https://t.me/Insane_Help) **
+ ** Avaiilable on Telegram as [ɪɴsᴀɴᴇ ✘ ʀᴏʙᴏᴛ](https://t.me/ThePokedex_Support ) **
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
