@@ -2,8 +2,8 @@ class Config(object):
     LOGGER = True
 
   # Get this value from my.telegram.org/apps
-    API_ID = 
-    API_HASH = ""
+    API_ID = 25843527
+    API_HASH = "436bed5c2775d426f4eea4166bc1fc8f"
 
     CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
@@ -14,19 +14,19 @@ class Config(object):
     MONGO_DB_URI = ""  # Get ths value from cloud.mongodb.com
 
   # Telegraph link of the image which will be shown at start command.
-    START_IMG = "https://te.legra.ph/file/40eb1ed850cdea274693e.jpg"
+    START_IMG = ""
 
-    SUPPORT_CHAT = "Dosto_ki_Mehfil786"  # Your Telegram support group chat username where your users will go and bother you
+    SUPPORT_CHAT = "ThePokedex_Support"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = ""  # Get bot token from @BotFather on Telegram
+    TOKEN = "6100138510:AAHvVLdpKQjZFJkoB2dUxb4q5xTax7QM9gE"  # Get bot token from @BotFather on Telegram
 
-    TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
+    TIME_API_KEY = "QA72C7APM0OQ"  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID =   # User id of your telegram account (Must be integer)
+    OWNER_ID = 6159220593
    
     QUOTE_API_URI = ""
     
-    ARQ_API_KEY = "MIBCUI-IRZTOS-REOWUP-VYCAGL-ARQ" #get it form @ARQRobot
+    ARQ_API_KEY = "RPBYOZ-BAMEXC-LNDTEN-INSJDI-ARQ" #get it form @ARQRobot
     
     ARQ_API_URL = "https://arq.hamker.in" # dont change
   # Optional fields
